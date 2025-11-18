@@ -45,9 +45,6 @@
         "template/web.xml",
         "views/res_users.xml",
         "views/res_config_settings_view.xml",
-        "data/res_company.xml",
-        "data/ir_config_parameter.xml",
-        "data/ir_attachment.xml",
     ],
     "qweb": [
         "static/src/components/control_panel.xml",
